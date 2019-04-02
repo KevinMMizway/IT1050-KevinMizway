@@ -53,7 +53,8 @@ public class Lab2
             /*d. To read the value of an instance variable, we create a method called a "get" accessor. To assign a value to an instance variable, we create a method called a "set" accessor. */
 
             /*e. A class is a blueprint or template for an object as objects are instances of their classes. This means that you only need to create a class once and as many copies(objects) as you want
-              can be created from that class. We can theoretically have as many objects as we want until we exceed our memory capabilites as we are really just coping a class over and over. */
+              can be created from that class. We can theoretically have as many objects as we want until we exceed our memory capabilites as we are really just copying and pasting a class. */
+            
            
            
 
