@@ -29,7 +29,7 @@ namespace Lab5
              Static methods are methods that can be called without first creating an object of the method’s class.  A static method belongs to its class and a non-static method belongs to the object of the class. A static method also only has access to static variables as they both belong only to the class. In order to use a non-static method, an object of the class must first be created.
             */
 
-            // 5 Add bark() method
+            // 5 My methods added to Dog are included here: Add bark() method
             public void Bark()
             {
                 Console.WriteLine("{0} is Barking...", Name);
