@@ -44,15 +44,15 @@ namespace Midterm
             /*5 Write a for loop that prints 49 through 1 separated by a comma.  Note, you will need to use a condition inside of the loops so it does not print the comma the 
               last time through (no newlines). */
 
-            for (int x = 49; x >= 1; x--)
+            for (int j = 49; j >= 1; j--)
             {
-                if (x > 1)
+                if (j > 1)
                 {
-                    Console.Write(x + ",");
+                    Console.Write(j + ",");
                 }
                 else
                 {
-                    Console.Write(x);
+                    Console.Write(j);
                 }
             }
 
